@@ -10,4 +10,17 @@ name2 ="code with me"
 
 nameshape = name2[1:4]
 
-print(nameshape)
+# print(nameshape)
+
+
+
+
+# splicing the string
+
+b = "124567890"
+
+bf = b[1:4:3]
+print(bf)
+
+
+
