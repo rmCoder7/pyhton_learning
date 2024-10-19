@@ -20,7 +20,15 @@ nameshape = name2[1:4]
 b = "124567890"
 
 bf = b[1:4:3]
-print(bf)
+# print(bf)
+
+
+
+c= "abcdefjkghjdfjghjfdghjkd"
+d=c[3:5:7]
+
+print(d)
+
 
 
 
