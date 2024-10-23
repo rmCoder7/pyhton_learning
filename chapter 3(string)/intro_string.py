@@ -31,6 +31,7 @@ print(d)
 
 
 
+
 #chapter 3
 
 
@@ -63,6 +64,4 @@ prog = " I am network enginner"
 exe = prog.replace("network" , "automation")
 
 print(exe)   
-
-
 
